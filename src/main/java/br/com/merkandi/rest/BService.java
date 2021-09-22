@@ -1,4 +1,4 @@
-package br.com.santander.escarlate.rest;
+package br.com.merkandi.rest;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
